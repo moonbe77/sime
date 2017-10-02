@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Ascensoores SIME SRL</title>
+  <title>Ascensoores SIME</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -455,6 +455,7 @@
                 Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Imperial
               -->
               Bootstrap Themes by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+              GitHUb <a href="https://moonbe77.github.io/sime/">Git Page</a>
             </div>
           </div>
         </div>
